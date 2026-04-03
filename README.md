@@ -105,7 +105,7 @@ Inference: A small number of neighborhoods dominate listings, indicating concent
 ---
 
 ##  Project Structure
-'''
+```
 airbnb-analysis/
 │
 ├── README.md
@@ -125,8 +125,7 @@ airbnb-analysis/
 │
 └── results/
     └── insights/
-
-'''
+```
 ---
 
 ##  How to Run
