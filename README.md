@@ -71,29 +71,28 @@ https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 ##  Sample Visualizations
 
-> *(Add your screenshots in `images/` folder and update paths below)*
 
 ![Price Distribution](images/price_distribution.png)
 
-Majority of listings are priced below $200, with a right-skewed distribution indicating presence of high-price outliers. 
+Inference: Majority of listings are priced below $200, with a right-skewed distribution indicating presence of high-price outliers. 
 
 ![Price by Neighborhood](images/price_by_neighborhood.png) 
 
-Manhattan listings are significantly more expensive than other boroughs, showing a strong location-driven pricing pattern
+Inference: Manhattan listings are significantly more expensive than other boroughs, showing a strong location-driven pricing pattern
 
 ![Room type Vs Price](images/room_type_price.png)
 
-Entire homes/apartments command the highest prices, while shared rooms remain the most affordable option
+Inference: Entire homes/apartments command the highest prices, while shared rooms remain the most affordable option
 
 ![Room type Distribution](images/room_type_distribution.png)
-Private rooms dominate the listings, indicating strong demand from budget-conscious travelers.
+Inference: Private rooms dominate the listings, indicating strong demand from budget-conscious travelers.
 
 ![Availability vs Price](images/availability_vs_price.png)
-Listings with lower availability tend to have higher prices, suggesting higher demand and occupancy rates
+Inference: Listings with lower availability tend to have higher prices, suggesting higher demand and occupancy rates
 
 ![Top Neighborhoods by Listings](images/top_neighborhoods.png)
+Inference: A small number of neighborhoods dominate listings, indicating concentrated demand in specific areas.
 
-A small number of neighborhoods dominate listings, indicating concentrated demand in specific areas.
 ---
 
 ##  Business Recommendations
@@ -106,6 +105,7 @@ A small number of neighborhoods dominate listings, indicating concentrated deman
 ---
 
 ##  Project Structure
+'''
 airbnb-analysis/
 │
 ├── README.md
@@ -126,6 +126,7 @@ airbnb-analysis/
 └── results/
     └── insights/
 
+'''
 ---
 
 ##  How to Run
