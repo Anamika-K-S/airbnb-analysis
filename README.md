@@ -115,16 +115,13 @@ airbnb-analysis/
 ├── notebooks/
 │   └── airbnb_analysis.ipynb
 │
-├── images/
-|   └── availability_vs_price.png
-│   └── price_by_neighborhood.png
-│   └── price_distribution.png
-│   └── room_type_distribution.png
-│   └── room_type_price.png
-│   └── top_neighborhoods.png
-│
-└── results/
-    └── insights/
+└── images/
+   └── availability_vs_price.png
+   └── price_by_neighborhood.png
+   └── price_distribution.png
+   └── room_type_distribution.png
+   └── room_type_price.png
+   └── top_neighborhoods.png
 ```
 ---
 
